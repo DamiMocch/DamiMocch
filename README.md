@@ -18,7 +18,6 @@
 - 👯 Pronombres: Ella
 - 📍 Locación: Ciudad de México
 - 💬 Leguaje: Español
-- 📫 How to reach me: ...
 - ⚡ Pasatiempo: Jugar Videojuegos 
 
 👩🏻‍💻 Técnico en TI. Desarrollo de Software Multiplataforma
