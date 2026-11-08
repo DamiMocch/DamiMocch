@@ -10,6 +10,12 @@
 
 
           
+### Portafolio profesional
+
+Conoce mis proyectos, experiencia y tecnologías: [damimocch.github.io](https://damimocch.github.io/).
+
+El código fuente del sitio está en [DamiMocch.github.io](https://github.com/DamiMocch/DamiMocch.github.io).
+
 ### ¡Hola! 💗
 **Soy Damaris Noemi Moctezuma Chimal**, Desarrolladora de Software Jr. Apacionada por la tecnología, aquí encontrarás información sobre mí.
 
